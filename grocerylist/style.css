@@ -1,0 +1,12 @@
+h1{background-color:
+color: aliceblue;}
+h2{background-color: coral;}
+h3{background-color: deepskyblue;}
+section{
+    
+    width: 300px;
+    background-color: burlywood;
+    margin:auto auto;
+    border: 10px solid rgba(7, 237, 7, 0.513);
+
+}
